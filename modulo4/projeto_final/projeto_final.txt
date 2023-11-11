@@ -1,39 +1,32 @@
-Projeto entregável final
+Projeto entregavel final
 
-O aluno deve entregar um projeto com todos (ou quase todos) os conceitos abordados nesse módulo utilizando a linguagem Python.
+O aluno deve entregar um projeto com todos (ou quase todos) os conceitos abordados 
+nesse modulo utilizando a linguagem Python.
 
+JOGO JOKENP
 
-JOGO JOKENPÔ
-
-Crie um programa em Python que permita ao usuário jogar pedra, papel e tesoura contra o computador.
+Crie um programa em Python que permita ao usuario jogar pedra, papel e tesoura contra o computador.
 
 O programa deve seguir as seguintes regras:
 
-1. Perguntar ao usuário quantas rodadas deseja jogar;
+1. Perguntar ao usuario quantas rodadas deseja jogar => Requisito atendido.
 
+2. Em cada rodada, o programa deve pedir que o usuario escolha entre pedra, papel e tesoura => Requisito atendido.
+
+3. O programa deve decidir aleatoriamente a escolha do computador => Requisito atendido.
+
+4. Mostrar na tela a jogada do usuario e a do computador, bem como o resultado da rodada (vencedor ou empate) => Requisito atendido.
+
+5. No final das rodadas, o programa deve mostrar quantas rodadas cada jogador ganhou => Requisito atendido.
+
+6. Determinar quem foi o grande campeao de acordo com a quantidade de vitorias de cada um (usuario e computador) => Requisito atendido.
+
+7. Perguntar se o usuario quer jogar novamente, se sim, volte a escolha de quantidade de rodadas, se nao, finalize o programa => 
 Requisito atendido.
 
-2. Em cada rodada, o programa deve pedir que o usuário escolha entre pedra, papel e tesoura;
 
-Requisito atendido.
+REGRAS DO JOGO:
 
-3. O programa deve decidir aleatoriamente a escolha do computador;
-
-Requisito atendido.
-
-
-4. Mostrar na tela a jogada do usuário e a do computador, bem como o resultado da rodada (vencedor ou empate);
-
-Requisito atendido.
-
-5. No final das rodadas, o programa deve mostrar quantas rodadas cada jogador ganhou;
-
-Requisito atendido.
-
-6. Determinar quem foi o grande campeão de acordo com a quantidade de vitórias de cada um (usuário e computador);
-
-Requisito atendido.
-
-7. Perguntar se o usuário quer jogar novamente, se sim, volte à escolha de quantidade de rodadas, se não, finalize o programa.
-
-Requisito atendido.
+- pedra ganha da tesoura (a amassa e quebra)
+- tesoura ganha do papel (o corta)
+- papel ganha da pedra (a embrulha)

@@ -1,0 +1,20 @@
+Questões da Atividade Final de Sala
+
+JOGO DE DADOS
+
+- Crie um programa que simula um jogo de dados, onde vários jogadores jogam um dado e têm resultados aleatórios.
+
+- O programa deve seguir as seguintes regras:
+
+1. Perguntar ao usuário quantas rodadas ele deseja jogar => Requisito atendido.
+
+2. Perguntar ao usuário quantos jogadores vão participar do jogo =>
+
+3. Para cada jogador, o programa deve criar um objeto (dicionário) com o nome do jogador e uma lista para armazenar os resultados de cada jogada =>
+
+4. Durante cada rodada, cada jogador deve jogar o dado e o resultado deve ser armazenado na lista de resultados do jogador =>
+
+5. Após todas as rodadas, o prorama deve ordenar os objetos (dicionários) JOgador pela quantidade de vitórias (ou seja, pelo número máximo tirado no dado) =>
+
+6. O programa deve exibir o resultado final, mostrando quantas vitórias cada jogador obteve e quem foi o grande campeão (ou se houve empate).
+
