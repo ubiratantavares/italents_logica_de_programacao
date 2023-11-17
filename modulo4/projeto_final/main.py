@@ -1,5 +1,6 @@
 from subrotinas import *
 
+
 while True:
     # Perguntar ao usuário quantas rodadas deseja jogar: requisito atendido
     num_rodadas = ler_numero_rodadas("Quantas rodadas deseja jogar?")
