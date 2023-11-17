@@ -1,0 +1,9 @@
+Algoritmo em Português
+
+Passo 1: Solicitar ao usuário que digite três valores numéricos.
+
+Passo 2: Ler os três valores numéricos e armazenar em três variáveis distintas.
+
+Passo 3: Verificar e ordenar os valores em ordem crescente.
+
+Passo 4: Exibir os valores ordenados em ordem crescente.

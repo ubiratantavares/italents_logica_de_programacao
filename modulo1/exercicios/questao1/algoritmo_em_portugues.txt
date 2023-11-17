@@ -1,0 +1,11 @@
+Algoritmo em Português
+
+Passo 1: Solicitar ao usuário que digite o valor do produto.
+
+Passo 2: Armazenar o valor digitado em uma variável.
+
+Passo 3: Calcular o valor do desconto de 10% no valor do produto. 
+
+Passo 4: Calcular o valor final após o desconto.
+
+Passo 5: Exibir o valor final com o desconto.

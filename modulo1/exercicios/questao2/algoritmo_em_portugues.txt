@@ -1,0 +1,13 @@
+Algoritmo em Português
+
+Passo 1: Solicitar ao usuário que digite a temperatura em graus Celsius.
+
+Passo 2: Ler a temperatura em graus Celsius
+
+Passo 3: Armazenar o valor da temperatura lida na variável tempCelsius.
+
+Passo 4: Calcular a temperatura em graus Fahrenheit usando a fórmula: 
+
+tempFahrenheit = 9 / 5 * tempCelsius + 32
+
+Passo 5: Exibir na tela a temperatura em graus Fahrenheit com a mensagem:"A temperatura em graus Fahrenheit: [tempFahrenheit]"

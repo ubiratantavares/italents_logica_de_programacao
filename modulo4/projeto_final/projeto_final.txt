@@ -1,9 +1,4 @@
-Projeto entregavel final
-
-O aluno deve entregar um projeto com todos (ou quase todos) os conceitos abordados 
-nesse modulo utilizando a linguagem Python.
-
-JOGO JOKENP
+Projeto entregavel final: JOGO JOKENP
 
 Crie um programa em Python que permita ao usuario jogar pedra, papel e tesoura contra o computador.
 
@@ -23,7 +18,6 @@ O programa deve seguir as seguintes regras:
 
 7. Perguntar se o usuario quer jogar novamente, se sim, volte a escolha de quantidade de rodadas, se nao, finalize o programa => 
 Requisito atendido.
-
 
 REGRAS DO JOGO:
 
